@@ -7,16 +7,17 @@ package fp.nobel.test;
  */
 
 import java.util.Map;
+
 import java.util.function.Function;
 import java.util.stream.Collectors;
 import java.util.List;
 
 
-import fp.nobel.FactoriaNobel;
-import fp.nobel.Genero;
-import fp.nobel.Implementacion;
-import fp.nobel.Premio;
-import fp.nobel.Premios;
+import fp.ejercicios.FactoriaNobel;
+import fp.ejercicios.Genero;
+import fp.ejercicios.Implementacion;
+import fp.ejercicios.Premio;
+import fp.ejercicios.Premios;
 
 public class TestPremiosBucles {
 public static void main(String[] args) {
